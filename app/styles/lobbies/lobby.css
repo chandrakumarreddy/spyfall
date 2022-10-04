@@ -1,0 +1,14 @@
+.copy-invite-code {
+    border: 1px solid #ccc;
+    margin-left: 16px;
+    border-radius: 4px;
+    background-color: var(--color-white);
+}
+
+.toast-container {
+    top: 65px !important;
+}
+
+.toast-container .toast-header {
+    width: fit-content;
+}
